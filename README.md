@@ -83,7 +83,8 @@ python3 run.py
 
 
 
-**_Helpful resources_**
+**_Helpful documentation_**
+- [Flask Application Factories](https://flask.palletsprojects.com/en/2.2.x/patterns/appfactories/)
 - [The Flask Mega-Tutorial Part XXIII: Application Programming Interfaces (APIs)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xxiii-application-programming-interfaces-apis)
 - [Modular Applications with Blueprints](https://flask.palletsprojects.com/en/2.2.x/blueprints/)
 - [How to Dockerize a Flask Application](https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/)
